@@ -1,4 +1,4 @@
-package tmpl
+package Build
 version = 0.0.1
 
 modules
