@@ -7,8 +7,9 @@ modules
 	, Build.HTML
 	, Build.Macros
 	, Build.Util
+	, Main
 
-main = Website
+main = Main
 executable = "main"
 
 sourcedir = "src"
