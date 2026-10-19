@@ -1,0 +1,15 @@
+package tmpl
+version = 0.0.1
+
+modules
+	= Build
+	, Build.LazyFile
+	, Build.HTML
+	, Build.Macros
+	, Build.Util
+
+main = Website
+executable = "main"
+
+sourcedir = "src"
+
